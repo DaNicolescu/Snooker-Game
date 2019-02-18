@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of Laborator3_Vis2D.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\Source\Laboratoare\Laborator3\Laborator3_Vis2D.cpp, ..\Source\Laboratoare\Tema1\Laborator3_Vis2D.cpp.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(936,5): warning MSB8027: Two or more files with the name of Object2D.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\Source\Laboratoare\Laborator3\Object2D.cpp, ..\Source\Laboratoare\Tema1\Object2D.cpp.
+  Tema3.cpp
+..\Source\Laboratoare\Tema3\Tema3.cpp(112): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+..\Source\Laboratoare\Tema3\Tema3.cpp(138): error C2065: 'ren': undeclared identifier
+..\Source\Laboratoare\Tema3\Tema3.cpp(138): error C2143: syntax error: missing ';' before '}'
+..\Source\Laboratoare\Tema3\Tema3.cpp(243): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+..\Source\Laboratoare\Tema3\Tema3.cpp(295): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+..\Source\Laboratoare\Tema3\Tema3.cpp(354): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+..\Source\Laboratoare\Tema3\Tema3.cpp(416): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+..\Source\Laboratoare\Tema3\Tema3.cpp(474): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+..\Source\Laboratoare\Tema3\Tema3.cpp(559): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
